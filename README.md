@@ -1,1 +1,1 @@
-# Resume_Statements_Nushrat
+I am Nushrat Humaira, computer scientist in the field of data mining and machine learning for bioinformatics. This repository contains my most updated resume, research statements, proposals and ideas.
